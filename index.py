@@ -61,8 +61,20 @@ myList2 = ["hamza","basit","asad","arfa","hassan","basit","basit"]
 # # string_ans = str.upper()
 # string_ans = str.title()
 # print(string_ans)
-print("python","programming",sep="\n")
+# print("python","programming",sep="\n")
 
+# word = "Trsdhsdkhsdhfue" 
+# new_word = bool(word)
+# # word_type = type(word)
+# print(type(new_word))
+
+# or and !  >>>>> logical operators
+a = 10 
+b = 20
+if a==b and a<b:
+    print("valid")
+else:
+    print("invalid")
 
 
 
